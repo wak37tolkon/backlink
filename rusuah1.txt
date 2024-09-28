@@ -90,23 +90,23 @@
 <li><a href="https://palm2google.com/wp-admin/paitohk/">paitohk</a></li>
 <li><a href="https://palm2google.com/hongkong168/">hongkong168</a></li>
 <li><a href="https://palm2google.com/kicauslot/">kicauslot</a></li>
-https://diskoperindag.tabalongkab.go.id/public/api/minitoto/
-https://diskoperindag.tabalongkab.go.id/public/api/benteng777/
-https://diskoperindag.tabalongkab.go.id/public/api/cair33/
-https://diskoperindag.tabalongkab.go.id/public/api/depobos/
-https://diskoperindag.tabalongkab.go.id/public/api/eurotogel/
-https://diskoperindag.tabalongkab.go.id/public/api/master333/
-https://diskoperindag.tabalongkab.go.id/public/api/probet88/
-https://diskoperindag.tabalongkab.go.id/public/api/stonebet88/
-https://diskoperindag.tabalongkab.go.id/public/api/surga22/
-https://diskoperindag.tabalongkab.go.id/public/api/surga33/
-https://diskoperindag.tabalongkab.go.id/public/api/surga55/
-https://diskoperindag.tabalongkab.go.id/public/api/surga77/
-https://diskoperindag.tabalongkab.go.id/public/api/surga88/
-https://diskoperindag.tabalongkab.go.id/public/api/surga99/index.php
-https://diskoperindag.tabalongkab.go.id/public/api/surgaplay/
-https://diskoperindag.tabalongkab.go.id/public/api/surgawin/
-https://diskoperindag.tabalongkab.go.id/public/api/topanwin/
-https://diskoperindag.tabalongkab.go.id/public/api/tri88/
-https://diskoperindag.tabalongkab.go.id/public/api/cuanwin138/
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/minitoto/">minitoto</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/benteng777/">benteng777</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/cair33/">cair33</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/depobos/">depobos</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/eurotogel/">eurotogel</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/master333/">master333</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/probet88/">probet88</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/stonebet88/">stonebet88</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/surga22/">surga22</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/surga33/">surga33</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/surga55/">surga55</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/surga77/">surga77</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/surga88/">surga88</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/surga99/">surga99</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/surgaplay/">surgaplay</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/surgawin/">surgawin</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/topanwin/">topanwin</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/tri88/">tri88</a></li>
+<li><a href="https://diskoperindag.tabalongkab.go.id/public/api/cuanwin138/">cuanwin138</a></li>
 </ul></div>
